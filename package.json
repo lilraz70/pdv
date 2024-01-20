@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^41.0.0",
-    "@ckeditor/ckeditor5-vue": "^4.0.1",
+    "@ckeditor/ckeditor5-vue": "^5.1.0",
     "@dicebear/avatars": "^4.10.3",
     "@dicebear/avatars-avataaars-sprites": "^4.10.5",
     "@vitejs/plugin-vue": "^4.1.0",
